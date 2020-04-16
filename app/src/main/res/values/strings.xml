@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Cart App</string>
+
+    <string name="price_text">Price: %d</string>
+</resources>
